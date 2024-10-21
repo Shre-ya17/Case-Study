@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.DAO\bin\Debug\EcommerceSystem.DAO.dll
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.DAO\bin\Debug\EcommerceSystem.DAO.pdb
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.DAO\bin\Debug\EcommerceSystem.Entity.dll
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.DAO\bin\Debug\EcommerceSystem.Exceptions.dll
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.DAO\bin\Debug\EcommerceSystem.Util.dll
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.DAO\bin\Debug\EcommerceSystem.Entity.pdb
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.DAO\bin\Debug\EcommerceSystem.Exceptions.pdb
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.DAO\bin\Debug\EcommerceSystem.Util.pdb
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.DAO\obj\Debug\EcommerceSystem.DAO.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.DAO\obj\Debug\EcommerceSystem.DAO.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.DAO\obj\Debug\Ecommerc.FE083190.Up2Date
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.DAO\obj\Debug\EcommerceSystem.DAO.dll
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.DAO\obj\Debug\EcommerceSystem.DAO.pdb
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.DAO\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.DAO\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.DAO\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.DAO\bin\Debug\EcommerceSystem.Entity.dll.config

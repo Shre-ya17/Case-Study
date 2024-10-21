@@ -1,0 +1,1 @@
+﻿Data Source=LAPTOP-B5N8IJS1;Initial Catalog=EcommerceDB;Integrated Security=True;

@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8C6B3B-2331-4634-BA5E-510E42C4FA79}|EcommerceSystem.DAO.\\EcommerceSystem.DAO.csproj|c:\\users\\hp\\source\\repos\\ecommercesolution\\ecommercesystem.dao.\\dao\\financerepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8C6B3B-2331-4634-BA5E-510E42C4FA79}|EcommerceSystem.DAO.\\EcommerceSystem.DAO.csproj|solutionrelative:ecommercesystem.dao.\\dao\\financerepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6103925-6DDE-44F6-AE1D-2C2376F8DDA3}|EcommerceSystem.App.\\EcommerceSystem.App.csproj|c:\\users\\hp\\source\\repos\\ecommercesolution\\ecommercesystem.app.\\app\\financeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6103925-6DDE-44F6-AE1D-2C2376F8DDA3}|EcommerceSystem.App.\\EcommerceSystem.App.csproj|solutionrelative:ecommercesystem.app.\\app\\financeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011BA90F-C07F-485E-B236-2F45310F5384}|EcommerceSystem.Tests.\\EcommerceSystem.Tests.csproj|c:\\users\\hp\\source\\repos\\ecommercesolution\\ecommercesystem.tests.\\tests\\financerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011BA90F-C07F-485E-B236-2F45310F5384}|EcommerceSystem.Tests.\\EcommerceSystem.Tests.csproj|solutionrelative:ecommercesystem.tests.\\tests\\financerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FC7E06B-2698-4694-B058-349D3457A39B}|EcommerceSystem.Exceptions.\\EcommerceSystem.Exceptions.csproj|c:\\users\\hp\\source\\repos\\ecommercesolution\\ecommercesystem.exceptions.\\exceptions\\expensenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FC7E06B-2698-4694-B058-349D3457A39B}|EcommerceSystem.Exceptions.\\EcommerceSystem.Exceptions.csproj|solutionrelative:ecommercesystem.exceptions.\\exceptions\\expensenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FC7E06B-2698-4694-B058-349D3457A39B}|EcommerceSystem.Exceptions.\\EcommerceSystem.Exceptions.csproj|c:\\users\\hp\\source\\repos\\ecommercesolution\\ecommercesystem.exceptions.\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FC7E06B-2698-4694-B058-349D3457A39B}|EcommerceSystem.Exceptions.\\EcommerceSystem.Exceptions.csproj|solutionrelative:ecommercesystem.exceptions.\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991833E1-4F1E-42E9-BF85-28245D0D772F}|EcommerceSystem.Util.\\EcommerceSystem.Util.csproj|c:\\users\\hp\\source\\repos\\ecommercesolution\\ecommercesystem.util.\\config\\dbconfig.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{991833E1-4F1E-42E9-BF85-28245D0D772F}|EcommerceSystem.Util.\\EcommerceSystem.Util.csproj|solutionrelative:ecommercesystem.util.\\config\\dbconfig.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991833E1-4F1E-42E9-BF85-28245D0D772F}|EcommerceSystem.Util.\\EcommerceSystem.Util.csproj|c:\\users\\hp\\source\\repos\\ecommercesolution\\ecommercesystem.util.\\util\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991833E1-4F1E-42E9-BF85-28245D0D772F}|EcommerceSystem.Util.\\EcommerceSystem.Util.csproj|solutionrelative:ecommercesystem.util.\\util\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8C6B3B-2331-4634-BA5E-510E42C4FA79}|EcommerceSystem.DAO.\\EcommerceSystem.DAO.csproj|c:\\users\\hp\\source\\repos\\ecommercesolution\\ecommercesystem.dao.\\dao\\ifinancerepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8C6B3B-2331-4634-BA5E-510E42C4FA79}|EcommerceSystem.DAO.\\EcommerceSystem.DAO.csproj|solutionrelative:ecommercesystem.dao.\\dao\\ifinancerepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991833E1-4F1E-42E9-BF85-28245D0D772F}|EcommerceSystem.Util.\\EcommerceSystem.Util.csproj|c:\\users\\hp\\source\\repos\\ecommercesolution\\ecommercesystem.util.\\util\\propertyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991833E1-4F1E-42E9-BF85-28245D0D772F}|EcommerceSystem.Util.\\EcommerceSystem.Util.csproj|solutionrelative:ecommercesystem.util.\\util\\propertyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D6E27E-75AE-43B7-9DB4-1E3C8067333D}|EcommerceSystem.Entity.\\EcommerceSystem.Entity.csproj|c:\\users\\hp\\source\\repos\\ecommercesolution\\ecommercesystem.entity.\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D6E27E-75AE-43B7-9DB4-1E3C8067333D}|EcommerceSystem.Entity.\\EcommerceSystem.Entity.csproj|solutionrelative:ecommercesystem.entity.\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D6E27E-75AE-43B7-9DB4-1E3C8067333D}|EcommerceSystem.Entity.\\EcommerceSystem.Entity.csproj|c:\\users\\hp\\source\\repos\\ecommercesolution\\ecommercesystem.entity.\\entity\\expensecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D6E27E-75AE-43B7-9DB4-1E3C8067333D}|EcommerceSystem.Entity.\\EcommerceSystem.Entity.csproj|solutionrelative:ecommercesystem.entity.\\entity\\expensecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D6E27E-75AE-43B7-9DB4-1E3C8067333D}|EcommerceSystem.Entity.\\EcommerceSystem.Entity.csproj|c:\\users\\hp\\source\\repos\\ecommercesolution\\ecommercesystem.entity.\\entity\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D6E27E-75AE-43B7-9DB4-1E3C8067333D}|EcommerceSystem.Entity.\\EcommerceSystem.Entity.csproj|solutionrelative:ecommercesystem.entity.\\entity\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbconfig.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.Util\\config\\dbconfig.txt",
+              "RelativeDocumentMoniker": "EcommerceSystem.Util\\config\\dbconfig.txt",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.Util\\config\\dbconfig.txt",
+              "RelativeToolTip": "EcommerceSystem.Util\\config\\dbconfig.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-21T09:46:13.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.Exceptions\\Exceptions\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "EcommerceSystem.Exceptions\\Exceptions\\UserNotFoundException.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.Exceptions\\Exceptions\\UserNotFoundException.cs",
+              "RelativeToolTip": "EcommerceSystem.Exceptions\\Exceptions\\UserNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:51:29.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpenseNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.Exceptions\\Exceptions\\ExpenseNotFoundException.cs",
+              "RelativeDocumentMoniker": "EcommerceSystem.Exceptions\\Exceptions\\ExpenseNotFoundException.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.Exceptions\\Exceptions\\ExpenseNotFoundException.cs",
+              "RelativeToolTip": "EcommerceSystem.Exceptions\\Exceptions\\ExpenseNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:52:30.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FinanceRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.Tests\\Tests\\FinanceRepositoryTests.cs",
+              "RelativeDocumentMoniker": "EcommerceSystem.Tests\\Tests\\FinanceRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.Tests\\Tests\\FinanceRepositoryTests.cs",
+              "RelativeToolTip": "EcommerceSystem.Tests\\Tests\\FinanceRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:58:04.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinanceRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.DAO\\DAO\\FinanceRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "EcommerceSystem.DAO\\DAO\\FinanceRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.DAO\\DAO\\FinanceRepositoryImpl.cs",
+              "RelativeToolTip": "EcommerceSystem.DAO\\DAO\\FinanceRepositoryImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:02:09.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinanceApp.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.App\\App\\FinanceApp.cs",
+              "RelativeDocumentMoniker": "EcommerceSystem.App\\App\\FinanceApp.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.App\\App\\FinanceApp.cs",
+              "RelativeToolTip": "EcommerceSystem.App\\App\\FinanceApp.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwG0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:07:33.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.Util\\Util\\DBConnection.cs",
+              "RelativeDocumentMoniker": "EcommerceSystem.Util\\Util\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.Util\\Util\\DBConnection.cs",
+              "RelativeToolTip": "EcommerceSystem.Util\\Util\\DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:44:18.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFinanceRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.DAO\\DAO\\IFinanceRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "EcommerceSystem.DAO\\DAO\\IFinanceRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.DAO\\DAO\\IFinanceRepositoryImpl.cs",
+              "RelativeToolTip": "EcommerceSystem.DAO\\DAO\\IFinanceRepositoryImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:02:37.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PropertyUtil.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.Util\\Util\\PropertyUtil.cs",
+              "RelativeDocumentMoniker": "EcommerceSystem.Util\\Util\\PropertyUtil.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.Util\\Util\\PropertyUtil.cs",
+              "RelativeToolTip": "EcommerceSystem.Util\\Util\\PropertyUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:44:49.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.Entity\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "EcommerceSystem.Entity\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.Entity\\Entity\\User.cs",
+              "RelativeToolTip": "EcommerceSystem.Entity\\Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:00:11.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExpenseCategory.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.Entity\\Entity\\ExpenseCategory.cs",
+              "RelativeDocumentMoniker": "EcommerceSystem.Entity\\Entity\\ExpenseCategory.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.Entity\\Entity\\ExpenseCategory.cs",
+              "RelativeToolTip": "EcommerceSystem.Entity\\Entity\\ExpenseCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:00:45.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.Entity\\Entity\\Expense.cs",
+              "RelativeDocumentMoniker": "EcommerceSystem.Entity\\Entity\\Expense.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EcommerceSolution\\EcommerceSystem.Entity\\Entity\\Expense.cs",
+              "RelativeToolTip": "EcommerceSystem.Entity\\Entity\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:00:29.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

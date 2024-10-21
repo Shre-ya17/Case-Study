@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.Util\bin\Debug\EcommerceSystem.Util.dll
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.Util\bin\Debug\EcommerceSystem.Util.pdb
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.Util\obj\Debug\EcommerceSystem.Util.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.Util\obj\Debug\EcommerceSystem.Util.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.Util\obj\Debug\EcommerceSystem.Util.dll
+C:\Users\HP\source\repos\EcommerceSolution\EcommerceSystem.Util\obj\Debug\EcommerceSystem.Util.pdb
